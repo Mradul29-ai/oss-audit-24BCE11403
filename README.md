@@ -29,11 +29,11 @@ This project is an audit of the open-source software Git. It explores its origin
 
 ### Step 1: Clone the repository
 
-git clone (github repo link)
+git clone https://github.com/Mradul29-ai/oss-audit-24BCE11403
 
 ### Step 2: Navigate to directory
 
-cd oss-audit-regno-
+cd oss-audit-regno-24BCE11403
 
 ### Step 3: Give permission
 
